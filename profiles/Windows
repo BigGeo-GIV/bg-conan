@@ -6,3 +6,7 @@ compiler.cppstd=20
 compiler.runtime=dynamic
 compiler.version=194
 os=Windows
+
+[conf]
+tools.system.package_manager:mode=install
+tools.system.package_manager:sudo=True

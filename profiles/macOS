@@ -6,3 +6,7 @@ compiler.cppstd=20
 compiler.libcxx=libc++
 compiler.version=16
 os=Macos
+
+[conf]
+tools.system.package_manager:mode=install
+tools.system.package_manager:sudo=True
