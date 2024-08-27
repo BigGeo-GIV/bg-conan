@@ -1,7 +1,12 @@
 {
  "remotes": [
   {
-   "name": "biggeo",
+   "name": "conancenter",
+   "url": "https://center.conan.io",
+   "verify_ssl": true
+  },
+  {
+   "name": "bg-conan",
    "url": "https://artifactory.biggeo.com/artifactory/api/conan/conan",
    "verify_ssl": true
   }
