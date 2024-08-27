@@ -1,0 +1,10 @@
+{
+ "remotes": [
+  {
+   "name": "biggeo",
+   "url": "https://artifactory.biggeo.com/artifactory/api/conan/conan",
+   "verify_ssl": true
+  }
+ ]
+}
+
